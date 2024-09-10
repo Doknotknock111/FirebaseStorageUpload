@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1042530439429",
+    "project_id": "cse227-firebaseuploadstorage",
+    "storage_bucket": "cse227-firebaseuploadstorage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042530439429:android:83f4df838c00d42cc3676c",
+        "android_client_info": {
+          "package_name": "com.example.cse227_firebaseuploadstorage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3cImYyFFz2iBsZPQAGwBfSIroordDWkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
