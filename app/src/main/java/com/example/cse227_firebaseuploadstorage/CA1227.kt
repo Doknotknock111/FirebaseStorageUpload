@@ -14,7 +14,7 @@ import com.google.firebase.storage.StorageReference
 import com.google.firebase.storage.UploadTask
 import java.util.UUID
 
-class CA1227 : AppCompatActivity() {
+class FirebaseStorage : AppCompatActivity() {
     private lateinit var chooseImageBtn: Button
     private lateinit var choosePdfBtn: Button
     private lateinit var uploadFileBtn: Button
